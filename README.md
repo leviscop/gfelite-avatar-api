@@ -1,3 +1,7 @@
+# This API version is deprecated. You can find the latest one in the [main](https://github.com/dicebear/api) branch.
+
+---
+
 <h1 align="center"><img src="https://avatars.dicebear.com/api/male/seed.svg?mood=happy" width="124" /> <br />DiceBear Avatars API</h1>
 <p align="center"><strong>DiceBear Avatars API build on <a href="https://fastify.io/" target="_blank">fastify</a></strong></p>
 
