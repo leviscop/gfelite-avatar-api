@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@dicebear/avatars": "~4.10.1",
-    "@dicebear/collection": "~4.10.0",
+    "@dicebear/collection": "~4.10.1",
     "@types/json-schema-merge-allof": "^0.6.0",
     "deepmerge": "^4.2.2",
     "json-schema-merge-allof": "^0.8.1",
