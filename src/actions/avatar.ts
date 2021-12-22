@@ -83,6 +83,11 @@ const plugin: FastifyPluginCallback<Options> = async (
           // Define default seed
           options['seed'] = request.params.seed ?? options['seed'] ?? '';
 
+          console.log({
+            styleName,
+            options,
+          });
+
           // Create avatar
           const svg = createAvatar(style, options);
 
